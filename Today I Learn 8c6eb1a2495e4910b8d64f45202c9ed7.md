@@ -30,3 +30,17 @@
 😀 카카오오븐을 이용한 프로토타이핑 화면 기획!
 
 😀 Mybatis mapper와 DB query 값을 넘기고 받아오는 테스트를 웹에서 하기 위한 jsp, html 파일 작성!
+
+😄 이룸 Spring 강의듣기!
+
+### 2020-11-08
+
+---
+
+- [x]  spring project 팀플
+
+😂 프로토타이핑 화면 기획을 바탕으로 만든 html 파일들 화면 전환 코드작성!
+
+😂 Rest API에 대한 기본 개념과 Spring 기본 개념 공부!
+
+😂 Spring 프로젝트 URI 구성 분석!
