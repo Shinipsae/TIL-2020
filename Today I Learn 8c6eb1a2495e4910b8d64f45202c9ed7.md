@@ -4,7 +4,7 @@
 
 > TIL + 매일 작성하는 Study planner 😆
 
-### 2020-11-06
+### 2020-11-06 (Fri)
 
 ---
 
@@ -16,7 +16,7 @@
 
 😄 mapper 에 작성한 query 테스트! (MySQL Workbench)
 
-### 2020-11-07
+### 2020-11-07 (Sat)
 
 ---
 
@@ -31,9 +31,9 @@
 
 😀 Mybatis mapper와 DB query 값을 넘기고 받아오는 테스트를 웹에서 하기 위한 jsp, html 파일 작성!
 
-😄 이룸 Spring 강의듣기!
+😄  spring mvc project를 위한 에듀원 이룸 강의듣기! (개념)
 
-### 2020-11-08
+### 2020-11-08 (Sun)
 
 ---
 
@@ -44,3 +44,13 @@
 😂 Rest API에 대한 기본 개념과 Spring 기본 개념 공부!
 
 😂 Spring 프로젝트 URI 구성 분석!
+
+### 2020-11-09 (Mon
+
+---
+
+- [x]  COVID19 HELPER 앱 업로드! → 플레이스토어 검토 기다리기
+
+🙃 .apk 파일 만들어서 플레이스토어에 업로드!
+
+🙃 COVID19 HELPER repository commit!
