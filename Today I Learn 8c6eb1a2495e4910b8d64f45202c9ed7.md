@@ -8,7 +8,11 @@
 
 ---
 
+<<<<<<< HEAD
 - [x]  Spring project 팀플 - 신도림 스터디카페
+=======
+- [x]  Spring project 팀플 - 신도림
+>>>>>>> 7e13eb45c950bf40e4c526b1c1f5cb7f0c83b141
 
 😄 ERD 이용해서 DB 작성 및 설계하는 법!
 
@@ -20,7 +24,11 @@
 
 ---
 
+<<<<<<< HEAD
 - [x]  Spring project 팀플 - 노량진 학원
+=======
+- [x]  Spring project 팀플 - 노량진학원
+>>>>>>> 7e13eb45c950bf40e4c526b1c1f5cb7f0c83b141
 - [x]  이공미코정 수업시간 12th, 13th 과제
 
 😀 별빛 신사리 공모전 (WhatDoYouWant_ssr.java) 
@@ -37,7 +45,11 @@
 
 ---
 
+<<<<<<< HEAD
 - [x]  Spring project 팀플 - 노량진 학원
+=======
+- [x]  Spring project 팀플 - 노량진학원
+>>>>>>> 7e13eb45c950bf40e4c526b1c1f5cb7f0c83b141
 
 😂 프로토타이핑 화면 기획을 바탕으로 만든 html 파일들 화면 전환 코드작성!
 
@@ -66,6 +78,7 @@
 
 😔 Spring MVC패턴 정리!
 
+<<<<<<< HEAD
 ### 2020-11-11 (Wed)
 
 - [x]  Spring project 팀플 - 신도림 스터디카페
@@ -75,3 +88,6 @@
 😴 자료구조 - Dijkstra 최단경로 알고리즘 코드 발표준비!
 
 😴 Java project 중간점검 대비 수정, 보완 작업!
+=======
+### 2020-11-11 (Wed)
+>>>>>>> 7e13eb45c950bf40e4c526b1c1f5cb7f0c83b141
