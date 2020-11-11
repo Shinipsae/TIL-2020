@@ -8,7 +8,7 @@
 
 ---
 
-- [x]  spring project 팀플
+- [x]  Spring project 팀플 - 신도림
 
 😄 ERD 이용해서 DB 작성 및 설계하는 법!
 
@@ -20,7 +20,7 @@
 
 ---
 
-- [x]  spring project 팀플
+- [x]  Spring project 팀플 - 노량진학원
 - [x]  이공미코정 수업시간 12th, 13th 과제
 
 😀 별빛 신사리 공모전 (WhatDoYouWant_ssr.java) 
@@ -37,7 +37,7 @@
 
 ---
 
-- [x]  spring project 팀플
+- [x]  Spring project 팀플 - 노량진학원
 
 😂 프로토타이핑 화면 기획을 바탕으로 만든 html 파일들 화면 전환 코드작성!
 
@@ -45,12 +45,25 @@
 
 😂 Spring 프로젝트 URI 구성 분석!
 
-### 2020-11-09 (Mon
+### 2020-11-09 (Mon)
 
 ---
 
 - [x]  COVID19 HELPER 앱 업로드! → 플레이스토어 검토 기다리기
+- [x]  안드로이드 방과후 듣기!
 
 🙃 .apk 파일 만들어서 플레이스토어에 업로드!
 
 🙃 COVID19 HELPER repository commit!
+
+### 2020-11-10 (Thu)
+
+---
+
+- [x]  Spring FW 에듀원 강의 듣고 공부
+
+😔 DI 개요와 Dispatcher Servlet 작동원리 정리!
+
+😔 Spring MVC패턴 정리!
+
+### 2020-11-11 (Wed)
