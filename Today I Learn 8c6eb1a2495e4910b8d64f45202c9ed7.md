@@ -104,3 +104,13 @@
 - [x]  Spring project 팀플 - 노량진 학원
 
 😙 Spring mvc 회원가입, 로그인, 회원탈퇴, 회원정보조회, 수정 및 기능 구현!
+
+😙 별빛 신사리 공모전 화면구현!
+
+### 2020-11-15(Sun)
+
+---
+
+- [x]  Spring project 팀플 - 노량진 학원
+
+😑 Spring project 화면처리를 위한 ajax와 jquery 복습
