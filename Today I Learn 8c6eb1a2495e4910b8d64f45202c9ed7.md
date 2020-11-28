@@ -225,3 +225,13 @@
 - [x]  미림 소프트웨어 챌린지 발표
 
 😲 별빛 신사리 공모전 코드 작성
+
+### 2020-11-27(Fri)
+
+---
+
+- [x]  별빛 신사리 공모전 마감
+
+😙 별빛 신사리 공모전 [github.io](http://github.io) 배포
+
+📚 [https://shinipsae.github.io/WhatDoYouWant_ssr.github.io/](https://shinipsae.github.io/WhatDoYouWant_ssr.github.io/)
