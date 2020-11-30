@@ -235,3 +235,28 @@
 😙 별빛 신사리 공모전 [github.io](http://github.io) 배포
 
 📚 [https://shinipsae.github.io/WhatDoYouWant_ssr.github.io/](https://shinipsae.github.io/WhatDoYouWant_ssr.github.io/)
+
+### 2020-11-28(Sat)
+
+---
+
+🙂 mysql db 'diaryme' schema 생성 
+
+🙂 python 프로젝트 mysql db연결
+
+### 2020-11-29(Sun)
+
+---
+
+🧐 python 프로젝트 설계 보완
+
+🧐 프로젝트 설계 보완을 바탕으로 코딩 작업(70%)
+
+### 2020-11-30(Mon)
+
+---
+
+- [x]  안드로이드 방과후 듣기 (Kotlin)
+- [x]  국어 Dynamite 보고서 수행평가 활동지 제출
+
+😅 국어 Dynamite 수행평가 자료조사 및 보고서 작성(100%)
